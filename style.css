@@ -119,6 +119,7 @@ aside {
     padding-left: 20px;
 }
 
+/* Mengatur layar hp */
 @media screen and (max-width: 1000px) {
     #content,
     aside {
